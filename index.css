@@ -1,0 +1,16 @@
+img {
+    width:200px;
+}
+
+ul {
+    list-style-type:none;
+}
+
+.point {
+    background-color: #646b96;
+    color:white !important;
+}
+
+.container {
+    margin-top:40px !important;
+}
